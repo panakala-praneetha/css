@@ -1,0 +1,80 @@
+🎨 Digital Art Gallery Website
+By Panakala Praneetha
+
+📖 Project Overview
+The Digital Art Gallery Website is a responsive, visually engaging platform built using HTML5, CSS3, and minimal JavaScript. It’s designed to exhibit digital artworks, photography, and illustrations, providing an immersive browsing experience with a focus on clean layouts, elegant typography, and adaptive design for different devices.
+
+📝 Objectives
+To develop a responsive, modern frontend website showcasing art collections.
+
+To implement semantic and accessible HTML5 structures.
+
+To practice advanced CSS styling techniques, including Flexbox, Grid, and animations.
+
+To incorporate interactivity through basic JavaScript.
+
+🔧 Core Features
+🌐 Responsive Web Design
+Adjusts seamlessly across desktop, tablet, and mobile screens.
+
+Utilizes media queries and flexible layouts to enhance user experience.
+
+🖼️ Art Collection Showcase
+Uses a grid-based gallery layout.
+
+Hover effects on images revealing artwork details.
+
+Modal pop-ups for viewing artworks in larger resolution.
+
+📝 Artist Bio & About Section
+Clean layout featuring an artist biography, mission statement, and a featured artwork section.
+
+📜 Contact Form
+Simple, styled form for inquiries, featuring name, email, and message fields.
+
+Frontend validation using HTML5 attributes.
+
+🎨 Typography & Visual Styling
+Google Fonts integration (Quicksand and Playfair Display) for a modern aesthetic.
+
+Soft color palette and minimalistic design for readability and visual harmony.
+
+📱 Navigation & User Interface
+Sticky navigation bar for improved accessibility.
+
+Mobile-friendly menu with toggle icon using JavaScript.
+
+🖥️ Technologies Used
+HTML5
+
+CSS3
+
+JavaScript (for interactions)
+
+Google Fonts
+
+Flexbox & CSS Grid
+
+Media Queries
+
+🚀 Deployment & Usage
+Download or clone the repository.
+
+Open index.html in any modern web browser.
+
+Replace image files and text content as needed for customization.
+
+📜 License
+This project is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Free to use for personal and educational purposes with appropriate credit.
+
+👩‍🎨 Author
+Panakala Praneetha
+Project: Digital Art Gallery Website
+Purpose: Web design practice & digital portfolio platform
+
+📌 Project Highlights
+✔ Clean, mobile-friendly design
+✔ Interactive image modals
+✔ Typography-focused styling
+✔ Easy to customize content and layout
+
